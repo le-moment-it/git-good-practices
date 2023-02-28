@@ -7,3 +7,10 @@ test from test/rebase-my-main
 test from gitui
 test from gitui 2
 test from gitui 3
+
+test from lazygit
+test from lazygit 2
+test from lazygit 3
+test from lazygit 4
+test from lazygit on main branch
+testteststesstsetstsetes
