@@ -5,3 +5,4 @@ test
 test
 test from test/rebase-my-main
 test from gitui
+test from gitui 2
