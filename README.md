@@ -17,3 +17,63 @@ This is the repository of the Twitch channel @le_moment_it
   - No branches schema (for the Linux version)
   - Create automatically profiles on git, can change the git config behavior
   - No official integration for Linux but we can find a good fork [shiftkey/desktop](https://github.com/shiftkey/desktop)
+  - Need mouse to do actions (not enough key bindings)
+
+
+## Gitui
+
+- Successfully : 
+  - Create a branch
+  - Commit
+  - Stash
+  - History
+  - Rebase
+  - No need mouse to perform actions
+
+
+- Bad points :
+  - Project too young
+  - Missing squash
+  - GPG signing
+  - No branches schema
+
+
+## Lazygit
+
+- Successfully :
+  - Create a branch
+  - Commit
+  - Stash
+  - History
+  - Create tags
+  - squash
+  - No need mouse to perform actions
+  - GPG
+  - Rebase
+
+- Bad point :
+  - Can freeze sometimes
+
+
+## Git Brunch
+
+- Successfully
+  - find a branch
+  - rebase
+  - filter branches
+
+- Bad point:
+  - cannot do all the rest
+
+
+
+## Tig
+
+- Successfully
+  - Mainly use to watch/review , not really for actions
+
+
+## GitUP
+
+- No success on the installation
+
