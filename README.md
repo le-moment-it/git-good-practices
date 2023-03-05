@@ -77,3 +77,31 @@ This is the repository of the Twitch channel @le_moment_it
 
 - No success on the installation
 
+
+## Glint :
+
+Successfully : 
+- Add files + commits
+- Create/delete branches
+- Squash / rewrite commit messages
+- Good history tree schema
+
+
+Bad points :
+
+- Checkout specific commit/tags
+- Rebase branches
+- Cherry-pick
+
+
+# VScode :
+
+Successfully :
+- Add files + commits
+- Rebase/merge
+- Cherry-pick/stash
+- GPG
+
+Bad points : 
+- No git history by default
+- Panels not easy to use at all
